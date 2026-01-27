@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.37",
+  "base_commit_sha": "d08adc29cc90a3e322af0b8c0e0dfc90286e07a9",
+  "prompts": {
+    "205fe9f4c50204d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "271db6fc-870e-451c-917f-ebc92e7c0e58",
+        "model": "claude-opus-4-5-20251101"
+      },
+      "human_author": "jiuban <read0915@163.com>",
+      "messages": [],
+      "total_additions": 262,
+      "total_deletions": 0,
+      "accepted_lines": 195,
+      "overriden_lines": 46
+    }
+  }
+}
