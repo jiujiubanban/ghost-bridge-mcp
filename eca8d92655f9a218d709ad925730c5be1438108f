@@ -1,0 +1,29 @@
+extension/popup.js
+  25ab2e06fdbf6f02 63,65,111
+server.js
+  25ab2e06fdbf6f02 4,8-10,22,24-25,27,29,36-100,129,138-155,157-160,162-175,177-181,184-185,191-235,245-269,271-272,274-276,278-311,313,315-322,324-327,354-379,457-460,560-600,689-761
+extension/background.js
+  25ab2e06fdbf6f02 672-704,707,716-737,739-740,749-765,767,776,778-796,982-986,990-993,999
+extension/popup.html
+  25ab2e06fdbf6f02 152
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.42",
+  "base_commit_sha": "eca8d92655f9a218d709ad925730c5be1438108f",
+  "prompts": {
+    "25ab2e06fdbf6f02": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b6703fec-9b80-4e07-8100-baeab39bf218",
+        "model": "claude-opus-4-5-20251101"
+      },
+      "human_author": "jiuban <learnStop@163.com>",
+      "messages": [],
+      "total_additions": 700,
+      "total_deletions": 123,
+      "accepted_lines": 505,
+      "overriden_lines": 6
+    }
+  }
+}
