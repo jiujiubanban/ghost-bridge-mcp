@@ -1,0 +1,72 @@
+extension/offscreen.html
+  a30879b175948775 1-10
+extension/background.js
+  9739f19ee6d90d14 661-663,665-759,761-763,788
+  a30879b175948775 26,28-29,52-92,95-96,154,290-291,355,511,553,557,596,664,760,764,769,773,791,793,799-801,804,806-814,843-859,862,865-868,871-873,877-879,882,887,889,892,897-898,900,905-906,911-923,928-929,932-933,935-939,943,956
+  259976de02e0b159 817-837,839-840,842,861
+extension/offscreen.js
+  a30879b175948775 1-175
+extension/manifest.json
+  a30879b175948775 4,11-16
+extension/popup.js
+  259976de02e0b159 10-15,48-49,81-120,122,160-165
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.37",
+  "base_commit_sha": "dab427bc39c126829e16fed761591865055ea08c",
+  "prompts": {
+    "259976de02e0b159": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f5709db0-bbc0-4d8f-808b-b7c28a547102",
+        "model": "claude-opus-4-5-thinking"
+      },
+      "human_author": "jiuban <learnStop@163.com>",
+      "messages": [],
+      "total_additions": 85,
+      "total_deletions": 5,
+      "accepted_lines": 85,
+      "overriden_lines": 0
+    },
+    "9739f19ee6d90d14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9710d38d-f249-4cce-b391-9e28a30828b4",
+        "model": "claude-opus-4-5-20251101"
+      },
+      "human_author": "jiuban <learnStop@163.com>",
+      "messages": [],
+      "total_additions": 253,
+      "total_deletions": 10,
+      "accepted_lines": 158,
+      "overriden_lines": 0
+    },
+    "a30879b175948775": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f7908352-58ea-4cea-846a-808d93c35716",
+        "model": "claude-opus-4-5-20251101"
+      },
+      "human_author": "jiuban <learnStop@163.com>",
+      "messages": [],
+      "total_additions": 442,
+      "total_deletions": 671,
+      "accepted_lines": 337,
+      "overriden_lines": 0
+    },
+    "bb6948c3364414f7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4d7f0f70-1f46-4d7e-80cf-7ba6ce22ced8",
+        "model": "claude-opus-4-5-20251101"
+      },
+      "human_author": "jiuban <learnStop@163.com>",
+      "messages": [],
+      "total_additions": 60,
+      "total_deletions": 4,
+      "accepted_lines": 60,
+      "overriden_lines": 0
+    }
+  }
+}
