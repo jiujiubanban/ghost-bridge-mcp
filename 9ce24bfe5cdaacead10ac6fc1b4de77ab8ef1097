@@ -1,0 +1,23 @@
+lib/utils.js
+  b55f6966cf27a6ef 4,15,27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.37",
+  "base_commit_sha": "9ce24bfe5cdaacead10ac6fc1b4de77ab8ef1097",
+  "prompts": {
+    "b55f6966cf27a6ef": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "10d92ab3-b16d-4530-9124-19090a680bc6",
+        "model": "claude-opus-4-5-20251101"
+      },
+      "human_author": "jiuban <learnStop@163.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 2,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
